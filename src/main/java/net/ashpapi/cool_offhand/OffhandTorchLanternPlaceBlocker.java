@@ -12,10 +12,8 @@ public class OffhandTorchLanternPlaceBlocker {
 
     @SubscribeEvent
     public static void onRightClickBlock(PlayerInteractEvent.RightClickBlock event) {
-        // Проверяем, что рука — offhand
         if (event.getHand() == InteractionHand.OFF_HAND) {
             ItemStack stack = event.getItemStack();
-            // Проверяем, что в offhand любой из запрещённых источников света
             if (
                     stack.getItem() == Items.TORCH ||
                             stack.getItem() == Items.SOUL_TORCH ||

@@ -7,6 +7,6 @@ public class OffhandBlockerMod {
     public static final String MODID = "offhandblocker";
 
     public OffhandBlockerMod() {
-        // Подписчик событий автоматически регистрируется через аннотацию в OffhandTorchLanternPlaceBlocker
+
     }
 }
