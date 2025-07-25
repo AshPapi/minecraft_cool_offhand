@@ -1,0 +1,14 @@
+{
+  "key.offhandblocker.block": "屏蔽副手物品",
+  "key.offhandblocker.unblock": "解除副手物品屏蔽",
+  "key.categories.offhandblocker": "副手屏蔽器",
+
+  "message.offhandblocker.added": "§c已添加到副手屏蔽列表！",
+  "message.offhandblocker.removed": "§a已从副手屏蔽列表中移除！",
+  "message.offhandblocker.list.title": "§6已屏蔽的副手物品：",
+  "message.offhandblocker.list.empty": "§7屏蔽列表为空。",
+  "message.offhandblocker.item_blocked": "§c该物品在副手中被屏蔽！",
+  "message.offhandblocker.added_name": "§c已添加：%s",
+  "message.offhandblocker.removed_name": "§a已移除：%s",
+  "message.offhandblocker.not_found": "§c未找到物品：%s"
+}

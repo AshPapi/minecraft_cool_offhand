@@ -1,0 +1,14 @@
+{
+  "key.offhandblocker.block": "Block Offhand Item",
+  "key.offhandblocker.unblock": "Unblock Offhand Item",
+  "key.categories.offhandblocker": "Offhand Blocker",
+
+  "message.offhandblocker.added": "§cAdded to blocked offhand items!",
+  "message.offhandblocker.removed": "§aRemoved from blocked offhand items!",
+  "message.offhandblocker.list.title": "§6Blocked Offhand Items:",
+  "message.offhandblocker.list.empty": "§7Blocked list is empty.",
+  "message.offhandblocker.item_blocked": "§cThis item is blocked in offhand!",
+  "message.offhandblocker.added_name": "§cAdded: %s",
+  "message.offhandblocker.removed_name": "§aRemoved: %s",
+  "message.offhandblocker.not_found": "§cItem not found by name: %s"
+}

@@ -1,0 +1,14 @@
+{
+  "key.offhandblocker.block": "Заблокувати предмет у лівій руці",
+  "key.offhandblocker.unblock": "Розблокувати предмет у лівій руці",
+  "key.categories.offhandblocker": "Блокувальник лівої руки",
+
+  "message.offhandblocker.added": "§cДодано до списку блокування лівої руки!",
+  "message.offhandblocker.removed": "§aВидалено зі списку блокування лівої руки!",
+  "message.offhandblocker.list.title": "§6Заблоковані предмети в лівій руці:",
+  "message.offhandblocker.list.empty": "§7Список порожній.",
+  "message.offhandblocker.item_blocked": "§cЦей предмет заблоковано у лівій руці!",
+  "message.offhandblocker.added_name": "§cДодано: %s",
+  "message.offhandblocker.removed_name": "§aВидалено: %s",
+  "message.offhandblocker.not_found": "§cПредмет не знайдено: %s"
+}

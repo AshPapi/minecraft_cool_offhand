@@ -1,0 +1,14 @@
+{
+  "key.offhandblocker.block": "オフハンドアイテムをブロック",
+  "key.offhandblocker.unblock": "オフハンドアイテムのブロックを解除",
+  "key.categories.offhandblocker": "オフハンドブロッカー",
+
+  "message.offhandblocker.added": "§cオフハンドブロックリストに追加されました！",
+  "message.offhandblocker.removed": "§aオフハンドブロックリストから削除されました。",
+  "message.offhandblocker.list.title": "§6オフハンドでブロックされているアイテム：",
+  "message.offhandblocker.list.empty": "§7ブロックリストは空です。",
+  "message.offhandblocker.item_blocked": "§cこのアイテムはオフハンドで使用できません！",
+  "message.offhandblocker.added_name": "§c追加：%s",
+  "message.offhandblocker.removed_name": "§a削除：%s",
+  "message.offhandblocker.not_found": "§cアイテムが見つかりません：%s"
+}

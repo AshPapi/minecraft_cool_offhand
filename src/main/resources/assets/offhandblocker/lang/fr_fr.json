@@ -1,0 +1,14 @@
+{
+  "key.offhandblocker.block": "Bloquer l’objet en main secondaire",
+  "key.offhandblocker.unblock": "Débloquer l’objet en main secondaire",
+  "key.categories.offhandblocker": "Offhand Blocker",
+
+  "message.offhandblocker.added": "§cAjouté à la liste des objets bloqués en main secondaire !",
+  "message.offhandblocker.removed": "§aRetiré de la liste des objets bloqués en main secondaire.",
+  "message.offhandblocker.list.title": "§6Objets bloqués en main secondaire :",
+  "message.offhandblocker.list.empty": "§7La liste est vide.",
+  "message.offhandblocker.item_blocked": "§cCet objet est bloqué en main secondaire !",
+  "message.offhandblocker.added_name": "§cAjouté : %s",
+  "message.offhandblocker.removed_name": "§aRetiré : %s",
+  "message.offhandblocker.not_found": "§cObjet introuvable : %s"
+}

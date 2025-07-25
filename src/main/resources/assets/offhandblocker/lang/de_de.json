@@ -1,0 +1,14 @@
+{
+  "key.offhandblocker.block": "Nebenhand-Gegenstand blockieren",
+  "key.offhandblocker.unblock": "Nebenhand-Gegenstand freigeben",
+  "key.categories.offhandblocker": "Offhand Blocker",
+
+  "message.offhandblocker.added": "§cZur Blockliste der Nebenhand hinzugefügt!",
+  "message.offhandblocker.removed": "§aAus der Blockliste der Nebenhand entfernt!",
+  "message.offhandblocker.list.title": "§6Blockierte Nebenhand-Gegenstände:",
+  "message.offhandblocker.list.empty": "§7Die Blockliste ist leer.",
+  "message.offhandblocker.item_blocked": "§cDieser Gegenstand ist in der Nebenhand blockiert!",
+  "message.offhandblocker.added_name": "§cHinzugefügt: %s",
+  "message.offhandblocker.removed_name": "§aEntfernt: %s",
+  "message.offhandblocker.not_found": "§cGegenstand nicht gefunden: %s"
+}
